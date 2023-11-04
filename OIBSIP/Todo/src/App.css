@@ -1,0 +1,13 @@
+.container {
+  margin-top: 4rem;
+}
+
+.header-title {
+  padding-left: 6rem;
+}
+
+.todos {
+  margin-top: 1.5rem;
+  height: 100%;
+
+}
